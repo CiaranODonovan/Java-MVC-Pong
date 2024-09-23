@@ -1,0 +1,36 @@
+.root{
+-fx-background-Color:#7CFC00}
+#gameTitleLabel{
+-fx-font-size:40;
+-fx-font-weight: bold;
+-fx-font-style: italic;
+-fx-text-fill:"black";
+
+}
+.label{
+-fx-font-size:20;
+-fx-font-weight: bold;
+-fx-text-fill:"white";
+}
+.text-field:focused{
+-fx-background-color: yellow;
+-fx-border-color: black;
+-fx-font-weight: bold;
+-fx-font-size:16;
+-fx-text-fill:"black";
+}
+
+.text-field{
+-fx-background-color: black;
+-fx-border-color: yellow;
+-fx-font-weight: bold;
+-fx-font-size:16;
+-fx-text-fill:"white";
+}
+.button{
+-fx-font-weight: bold;
+-fx-background-color: yellow;
+-fx-font-size:16;
+-fx-text-fill:"black";
+-fx-border-color: black;
+}
